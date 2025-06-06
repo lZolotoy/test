@@ -63,7 +63,7 @@ export default function LoginPage() {
                     <span>Continue with Google</span>
                 </button>
                 <div className="text-center text-sm mt-4">
-                    Don\'t Have An Account? <Link href="/register" className="underline">Sign Up</Link>
+                    Dont Have An Account? <Link href="/register" className="underline">Sign Up</Link>
                 </div>
             </form>
         </div>
